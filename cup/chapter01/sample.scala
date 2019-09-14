@@ -30,6 +30,13 @@ if(x == BigInteger.ZERO)
     BigInteger.ONE
 else
     x.multiply(factorial(x.subtract(BigInteger.ONE)))
+
+
 // BigInteger bigint = new BigInteger("30")
 // println(factorial(bigint))
 // println(factorial(30))
+
+
+val xs = 1 to 3
+val it = xs.iterator
+eventually { it.next() shouldBe 3 }
