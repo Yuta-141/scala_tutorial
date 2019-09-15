@@ -1,0 +1,15 @@
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace '/Users/Yuta/Desktop/programing/scala/cup'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /Users/Yuta/Desktop/programing/scala/cup/chapter01/lesson1,1,2.scala
+WARN  no build target: /Users/Yuta/Desktop/programing/scala/cup/chapter01/sample.scala
+WARN  no build target: /Users/Yuta/Desktop/programing/scala/cup/chapter02/hello.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/Yuta/Desktop/programing/scala/cup/chapter02/hello.scala
+9 15, 2019 9:12:08 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+9 15, 2019 9:12:24 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+9 15, 2019 9:12:42 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+WARN  no build target: /Users/Yuta/Desktop/programing/scala/cup/chapter02/hello.scala
+INFO  shutting down Metals
